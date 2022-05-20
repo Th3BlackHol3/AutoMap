@@ -4,15 +4,21 @@ AutoMap is an Automation tool of NMap, AutoMap will run all those important comm
 Usage:
 
 On Linux:
+
 Git Clone: git clone https://github.com/Th3BlackHole/AutoMap.git
+
 $ cd AutoMap
+
 $ sudo chmod +x AutoMap.sh
 
 Run AutoMap:
+
 $ ./AutoMap.sh -d Domain/IP
 
 Example:
+
 $ ./AutoMap.sh -d example.com/192.168.0.1
 
 Help:
+
 $ AutoMap.sh -z
