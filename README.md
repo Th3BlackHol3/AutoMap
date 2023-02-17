@@ -1,5 +1,9 @@
 # AutoMap
 
+<p align="center">
+  <img src="https://github.com/Th3BlackHol3/AutoMap/blob/main/Th3BlackHol3%20%20AutoMap.gif">
+</p>
+
 # AutoMap | Th3BlackHol3
 
 AutoMap is an Automation tool of NMap, AutoMap will run all those important commands and script engines of NMap in One Action. You don't need to wait for the next command or next actions, AutoMap will take the actions automatically and it will save the results as txt file in the AutoMap_Data folder for future access.
