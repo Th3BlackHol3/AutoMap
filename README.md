@@ -31,3 +31,9 @@ Help:
 $ AutoMap.sh -z
 
 Respect Hackers | HAPPY HACKING!  PEACE!!
+
+## Buy Me a coffee?
+
+<img src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" height="50" widght="50">
+
+[Buy me a coffe](https://www.buymeacoffee.com/Th3BlackHol3)
